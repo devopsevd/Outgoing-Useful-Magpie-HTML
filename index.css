@@ -54,6 +54,14 @@
   flex-direction: column;
   background-color: var(--dl-color-gray-white);
 }
+.home-logo {
+  color: #000000;
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: right;
+  font-weight: 400;
+}
 .home-desktop-menu {
   flex: 1;
   display: flex;
