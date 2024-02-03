@@ -62,6 +62,7 @@
   text-align: right;
   font-family: "Open Sans";
   font-weight: 400;
+  text-decoration: none;
 }
 .home-desktop-menu {
   flex: 1;
