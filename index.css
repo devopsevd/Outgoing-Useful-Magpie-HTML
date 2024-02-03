@@ -56,10 +56,11 @@
 }
 .home-logo {
   color: #000000;
-  font-size: 20px;
+  font-size: 50px;
   align-self: center;
   font-style: normal;
   text-align: right;
+  font-family: "Open Sans";
   font-weight: 400;
 }
 .home-desktop-menu {
